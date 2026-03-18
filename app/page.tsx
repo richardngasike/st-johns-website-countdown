@@ -82,7 +82,7 @@ export default function HomePage() {
             )}
           </div>
           <h1 className="college-name">St. John&apos;s Training College Maralal</h1>
-          <p className="college-subtitle">Samburu County · Kenya</p>
+          <p className="college-subtitle">Aspire to Inspire before you Expire</p>
           <div className="divider">
             <div className="divider-line" />
             <div className="divider-diamond" />
